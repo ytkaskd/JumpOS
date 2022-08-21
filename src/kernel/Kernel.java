@@ -12,7 +12,5 @@ public class Kernel {
     VGAT.printStr("Java ");
     VGAT.setColor((byte)0x02);
     VGAT.printStr("by tankarmee");
-
-    while(true) VGAT.endl();
   }
 }
